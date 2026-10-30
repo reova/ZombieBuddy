@@ -49,8 +49,8 @@ description=
 description=[h2]作者名单与源码 / Authors and source[/h2]
 description=作者文件为官方 GitHub 签名快照 a403daf，2026-08-16，10 位作者，已用官方 Ed25519 公钥验签；未自行添加或重新签署作者。
 description=The bundled 10-author list is the verified official signed snapshot (a403daf, 2026-08-16), not a locally re-signed list.
-description=Fork: [url=https://github.com/yuruichang/ZombieBuddy]yuruichang/ZombieBuddy[/url]
-description=本次分支 / Patch branch: [url=https://github.com/yuruichang/ZombieBuddy/tree/b42-compatibility-performance-localization]b42-compatibility-performance-localization[/url]
+description=Fork: [url=https://github.com/reova/ZombieBuddy]reova/ZombieBuddy[/url]
+description=本次分支 / Patch branch: [url=https://github.com/reova/ZombieBuddy/tree/b42-compatibility-performance-localization]b42-compatibility-performance-localization[/url]
 description=Upstream: [url=https://github.com/zed-0xff/ZombieBuddy]zed-0xff/ZombieBuddy[/url]
 description=
 description=[h2]验证、回退与许可 / Validation, rollback and license[/h2]

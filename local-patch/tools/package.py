@@ -35,7 +35,7 @@ metadata={'name':'ZombieBuddy 2.3.3 LY Optimized 1.1.2','upstream_commit':'0ddf1
     'limitations':['No full in-game world/multiplayer run','No full startup timing benchmark','Unsigned local replacement; original mod approval and ZBS checks preserved']}
 metadata['authors_snapshot']=json.loads((root/'authors-provenance.json').read_text(encoding='utf-8'))
 assert hashlib.sha256((root/'authors.json').read_bytes()).hexdigest()==metadata['authors_snapshot']['sha256']
-metadata['fork']='https://github.com/yuruichang/ZombieBuddy/tree/b42-compatibility-performance-localization'
+metadata['fork']='https://github.com/reova/ZombieBuddy/tree/b42-compatibility-performance-localization'
 metadata['localization']=json.loads((build/'localization-report.json').read_text(encoding='utf-8'))
 assert len(metadata['localization'])==6 and all(v=='passed' for v in metadata['localization'].values())
 distribution=build/'distribution-report.json'

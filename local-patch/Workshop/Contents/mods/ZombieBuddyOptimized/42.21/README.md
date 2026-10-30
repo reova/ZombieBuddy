@@ -4,7 +4,7 @@
 
 **这是原作者尚未发布新版修复期间制作的临时修复与性能优化包。原作者发布更新后，本创意工坊 Mod 将删除；届时请回到原作者的官方版本。**
 
-Fork 仓库：[yuruichang/ZombieBuddy](https://github.com/yuruichang/ZombieBuddy)；本次源码分支：[b42-compatibility-performance-localization](https://github.com/yuruichang/ZombieBuddy/tree/b42-compatibility-performance-localization)。
+Fork 仓库：[reova/ZombieBuddy](https://github.com/reova/ZombieBuddy)；本次源码分支：[b42-compatibility-performance-localization](https://github.com/reova/ZombieBuddy/tree/b42-compatibility-performance-localization)。
 
 ## 新版故障的原因
 
